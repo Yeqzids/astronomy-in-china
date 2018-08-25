@@ -12,7 +12,7 @@ A collection of useful astronomy-related materials in China (mainland).
 
 ### Postsecondary institutes offering astronomy programs
 
-```Alphabetically ordered by mulicipalities/provinces/regions.```
+<small>Alphabetically ordered by mulicipalities/provinces/regions.</small>
 
 #### Anhui
 
