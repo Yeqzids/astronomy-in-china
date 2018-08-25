@@ -14,164 +14,64 @@ A collection of useful astronomy-related materials in China (mainland).
 
 > Alphabetically ordered by municipalities/provinces/regions.
 
-#### Some Acronyms
+**Acronyms**
 
 - CAS = Chinese Academy of Sciences
-- NAOC = National Astronomical Observatories of China (a sub-division of CAS)
-- PMO = Purple Mountain Observatory (a sub-division of CAS)
-- YNAO = Yunnan Observatories (a sub-division of CAS)
+- NAOC = National Astronomical Observatories of China (a subdivision of CAS)
+- PMO = Purple Mountain Observatory (a subdivision of CAS)
+- YNAO = Yunnan Observatories (a subdivision of CAS)
 
-#### Anhui Province
+#### Northern China (Beijing and vicinity)
 
-##### University of Science and Technology of China 中国科学技术大学
+- Beijing Normal University (北京师范大学): [Department of Astronomy (天文系)](http://astrowww.bnu.edu.cn/NewCN/index.php) (in Chinese; English website defuncted) - astronomy
+- Hebei Normal University (河北师范大学): [College of Physics and Information Engineering (物理科学与信息工程学院)](http://phys.hebtu.edu.cn/) (in Chinese; no English website) - physics (astronomy-track)
+- [Institute of High Energy Physics, CAS (中科院高能物理研究所)](http://english.ihep.cas.cn/) - high energy astrophysics
+- Peking University (北京大学): [Department of Astronomy (天文学系)](http://vega.bac.pku.edu.cn/yingwenb.htm) - astronomy; [Kavli Institute for Astronomy and Astrophysics (KIAA; 科维里天文与天体物理研究所)](http://kiaa.pku.edu.cn) - astronomy; [Institute of Space Physics and Applied Technology (空间物理与应用技术研究所)](http://www.space.pku.edu.cn/english/index.htm) - space physics
+- [National Astronomical Observatories of China, CAS (中科院国家天文台)](http://english.nao.cas.cn/) - astronomy, planetary science, astronomy education
+- Tianjin Normal University (天津师范大学): [Center for Astrophysics (天体物理中心)](http://wlycl.tjnu.edu.cn/English.htm) - physics (astronomy-track)
+- Tsinghua University (清华大学): [Tsinghua Center for Astrophysics (天体物理中心)](http://astro.tsinghua.edu.cn/) - astronomy; [Department of Earth System Science (地球系统科学系)](http://www.cess.tsinghua.edu.cn/publish/essen/index.html) - planetary science
 
-- Department of Astronomy 天文学系 https://astro.ustc.edu.cn/ (in Chinese; no English website): astronomy
-- School of Earth and Space Science 地球和空间科学学院 http://ess.ustc.edu.cn/ (in Chinese; no English website): planetary science
+#### Eastern China (Shanghai and vicinity)
 
-#### Beijing Municipality
+- [Nanjing Institute of Astronomical Optics and Technology (南京天文光学技术研究所)](http://english.niaot.cas.cn/) - instrumentation
+- Nanjing University (南京大学): [School of Astronomy and Space Science (天文与空间科学学院)](http://astronomy.nju.edu.cn/) - astronomy, planetary science
+- [Purple Mountain Observatory (紫金山天文台)](http://english.pmo.cas.cn/) - astronomy, planetary science
+- Shandong University Weihai Campus (山东大学威海分校): [School of Space Science and Physics (空间科学与物理学院)](https://apd.wh.sdu.edu.cn/) (in Chinese; no English website) - astronomy, planetary science
+- [Shanghai Astronomical Observatory (上海天文台)](http://english.shao.cas.cn/) - astronomy
+- Shanghai Jiao Tong University (上海交通大学): [School of Physics and Astronomy (物理与天文学院)](http://www.physics.sjtu.edu.cn/en/) - astronomy
+- University of Science and Technology of China (中国科学技术大学): [Department of Astronomy (天文学系)](https://astro.ustc.edu.cn/) (in Chinese; no English website) - astronomy; [School of Earth and Space Science (地球和空间科学学院)](http://ess.ustc.edu.cn/) (in Chinese; no English website) - planetary science
 
-##### Beijing Normal University 北京师范大学
+#### Southern and Southeastern China (vicinity of Hong Kong)
 
-- Department of Astronomy 天文系 http://astrowww.bnu.edu.cn/NewCN/index.php (in Chinese; defuncted English website): astronomy
+- Guangzhou University (广州大学): [Center for Astrophysics (天体物理中心)](http://cfa.gzhu.edu.cn) (in Chinese; defuncted English website) - astronomy
+- Southern University of Science and Technology (南方科技大学): [Department of Earth and Space Science (地球与空间科学系)](http://ess.sustc.edu.cn/Index-index.html) - planetary science
+- Sun Yat-sen University (中山大学): [School of Physics and Astronomy (物理与天文学院)](http://spa.sysu.edu.cn/en) - astronomy; [Tianqin Research Center for Gravitational Physics (天琴中心)](http://tianqin.sysu.edu.cn) (in Chinese; defuncted English website) - gravitational astronomy
+- Xiamen University (厦门大学): [Department of Astronomy (天文学系)](http://astro.xmu.edu.cn/en/HOME.htm) - astronomy
 
-##### Chinese Academy of Sciences 中国科学院
+#### Central China (Wuhan and vicinity)
 
-- Institute of High Energy Physics 高能物理研究所 http://english.ihep.cas.cn/: high energy astrophysics
-- National Astronomical Observatories of China 国家天文台 http://english.nao.cas.cn/: astronomy, planetary science
+- Central China Normal University (华中师范大学): [College of Physical Science and Technology (物理科学与技术学院)](http://physics.ccnu.edu.cn/) (in Chinese; defuncted English website) - physics (astronomy-track)
+- China University of Geosciences (中国地质大学): [Planetary Science Institute (行星科学研究所)](http://psi.cug.edu.cn) (in Chinese; defuncted English website) - planetary science
+- [Institute of Geodesy and Geophysics, CAS (中科院地质与地球物理研究所)](http://english.igg.cas.cn/) - planetary science
+- Wuhan University (武汉大学): [School of Physics and Technology (物理科学与技术学院)](http://physics.whu.edu.cn/en/Home.htm) - physics (astronomy-track)
 
-##### Peking University 北京大学
+#### Tibetan Plateau (Tibet, Qinghai and vicinity)
 
-- Department of Astronomy 天文学系 http://vega.bac.pku.edu.cn/yingwenb.htm: astronomy
-- Kavli Institute for Astronomy and Astrophysics (KIAA) 科维里天文与天体物理研究所 http://kiaa.pku.edu.cn: astronomy
-- Institute of Space Physics and Applied Technology 空间物理与应用技术研究所 http://www.space.pku.edu.cn/english/index.htm: space physics
+- Tibet University (西藏大学): Cosmic Ray Laboratory (宇宙线实验室) (no website) - physics (astronomy-track)
 
-##### Tsinghua University 清华大学
+#### Xinjiang
 
-- Tsinghua Center for Astrophysics 天体物理中心 http://astro.tsinghua.edu.cn/: astronomy
-- Department of Earth System Science 地球系统科学系 http://www.cess.tsinghua.edu.cn/publish/essen/index.html: planetary science
+- Xinjiang University 新疆大学: [School of Physics and Technology (物理科学与技术学院)](http://phy.xju.edu.cn/index.htm) (in Chinese; no English website) - physics (astronomy-track)
+- [Xinjiang Astronomical Observatory, CAS (中科院新疆天文台)](http://english.xao.ac.cn/) - astronomy
 
-#### Guangdong Province
+#### Southwestern China (Yunnan, Guizhou, Sichuan)
 
-##### Guangzhou University 广州大学
-
-- Center for Astrophysics 天体物理中心 http://cfa.gzhu.edu.cn (in Chinese; defuncted English website): astronomy
-
-##### Southern University of Science and Technology 南方科技大学
-
-- Department of Earth and Space Science 地球与空间科学系 http://ess.sustc.edu.cn/Index-index.html: planetary science
-
-##### Sun Yat-sen University 中山大学
-
-- School of Physics and Astronomy 物理与天文学院 http://spa.sysu.edu.cn/en: astronomy
-- Tianqin Research Center for Gravitational Physics 天琴中心 http://tianqin.sysu.edu.cn (in Chinese; defuncted English website): gravitational astronomy
-
-#### Guizhou Province
-
-##### Guizhou Normal University 贵州师范大学
-
-- Astronomical Research and Education Center 天文研究与教育中心 http://fast.gznu.edu.cn/ (in Chinese; no English website): radio astronomy, astronomy education
-
-##### Guizhou University 贵州大学
-
-- School of Physics 物理学院 http://phy.gzu.edu.cn/ (in Chinese; no English website): radio astronomy
-
-#### Fujian Province
-
-##### Xiamen University 厦门大学
-
-- Department of Astronomy 天文学系 http://astro.xmu.edu.cn/en/HOME.htm: astronomy
-
-#### Heibei Province
-
-##### Hebei Normal University 河北师范大学
-
-- College of Physics and Information Engineering 物理科学与信息工程学院 http://phys.hebtu.edu.cn/ (in Chinese; no English website): physics (astronomy-track)
-
-#### Hubei Province
-
-##### Central China Normal University 华中师范大学
-
-- College of Physical Science and Technology 物理科学与技术学院 http://physics.ccnu.edu.cn/ (in Chinese; defuncted English website): physics (astronomy-track)
-
-##### China University of Geosciences 中国地质大学(武汉)
-
-- Planetary Science Institute 行星科学研究所 http://psi.cug.edu.cn (in Chinese; defuncted English website): planetary science
-
-##### Chinese Academy of Sciences 中国科学院
-
-- Institute of Geodesy and Geophysics 地质与地球物理研究所 http://english.igg.cas.cn/: planetary science
-
-##### Wuhan University 武汉大学
-
-- School of Physics and Technology 物理科学与技术学院 http://physics.whu.edu.cn/en/Home.htm: physics (astronomy-track)
-
-#### Jiangsu Province
-
-##### Chinese Academy of Sciences 中国科学院
-
-- Nanjing Institute of Astronomical Optics and Technology 南京天文光学技术研究所 http://english.niaot.cas.cn/: instrumentation
-- Purple Mountain Observatory 紫金山天文台 http://english.pmo.cas.cn/: astronomy, planetary science
-
-##### Nanjing University 南京大学
-
-- School of Astronomy and Space Science 天文与空间科学学院 http://astronomy.nju.edu.cn/: astronomy, planetary science
-
-#### Shandong Province
-
-##### Shandong University, Weihai Campus 山东大学威海分校
-
-- School of Space Science and Physics 空间科学与物理学院 https://apd.wh.sdu.edu.cn/ (in Chinese; no English website): astronomy, planetary science
-
-#### Shanghai Municipality
-
-##### Chinese Academy of Sciences 中国科学院
-
-- Shanghai Astronomical Observatory 上海天文台 http://english.shao.cas.cn/: astronomy
-
-##### Shanghai Jiao Tong University 上海交通大学
-
-- School of Physics and Astronomy 物理与天文学院 http://www.physics.sjtu.edu.cn/en/: astronomy
-
-#### Tianjin Municipality
-
-##### Tianjin Normal University 天津师范大学
-
-- Center for Astrophysics 天体物理中心 http://wlycl.tjnu.edu.cn/English.htm: physics (astronomy-track)
-
-#### Tibet Autonomous Region
-
-##### Tibet University 西藏大学
-
-- Cosmic Ray Laboratory 宇宙线实验室 (no website): physics (astronomy-track)
-
-#### Xinjiang Uyghur Autonomous Region
-
-##### Xinjiang University 新疆大学
-
-- School of Physics and Technology 物理科学与技术学院 http://phy.xju.edu.cn/index.htm (in Chinese; no English website): physics (astronomy-track)
-
-##### Chinese Academy of Sciences 中国科学院
-
-- Xinjiang Astronomical Observatory 新疆天文台 http://english.xao.ac.cn/: astronomy
-
-#### Yunnan Province
-
-##### Dali University 大理大学
-
-- School of Engineering 工程学院 http://www.dali.edu.cn/gcxy/index.htm (in Chinese; no English website): engineering (astronomy-track)
-
-##### Chinese Academy of Sciences 中国科学院
-
-- Yunnan Observatories 云南天文台 http://english.ynao.cas.cn/: astronomy
-
-##### Yunnan Normal University 云南师范大学
-
-- School of Physics and Informatics 物理与电子信息学院 http://wdxy.ynnu.edu.cn (in Chinese; defuncted English website): physics (astronomy-track)
-
-##### Yunnan University 云南大学
-
-- School of Physics and Astronomy 物理与天文学院 http://www.science.ynu.edu.cn/english/Home.htm: astronomy
-- South-Western Institute for Astronomy Research 西南天文研究所 http://www.swifar.ynu.edu.cn: astronomy
+- Dali University (大理大学): [School of Engineering (工程学院)](http://www.dali.edu.cn/gcxy/index.htm) (in Chinese; no English website) - engineering (astronomy-track)
+- Guizhou Normal University (贵州师范大学): [Astronomical Research and Education Center (天文研究与教育中心)](http://fast.gznu.edu.cn/) (in Chinese; no English website) - radio astronomy, astronomy education
+- Guizhou University (贵州大学): [School of Physics (物理学院)](http://phy.gzu.edu.cn/) (in Chinese; no English website) - radio astronomy
+- Yunnan Normal University (云南师范大学): [School of Physics and Informatics (物理与电子信息学院)](http://wdxy.ynnu.edu.cn) (in Chinese; defuncted English website) - physics (astronomy-track)
+- [Yunnan Observatories, CAS (中科院云南天文台)](http://english.ynao.cas.cn/) - astronomy
+- Yunnan University (云南大学): [School of Physics and Astronomy (物理与天文学院)](http://www.science.ynu.edu.cn/english/Home.htm) - astronomy; [South-Western Institute for Astronomy Research (西南天文研究所)](http://www.swifar.ynu.edu.cn) - astronomy
 
 ### Research facilities
 
