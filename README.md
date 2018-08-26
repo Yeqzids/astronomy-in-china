@@ -3,10 +3,10 @@ A collection of useful astronomy-related materials in China (mainland). If you f
 
 ## Contents
 
-- [Postsecondary institutions offering astronomy programs](#programs)
+- [Postsecondary institutes offering astronomy program](#program)
 - [Research facilities](#facilities)
-- [Planetariums](#planetariums)
-- [Social media](#social-media)
+- [Planetarium](#planetarium)
+- [A map showing the location of institutes and facilities mentioned above]()
 
 ***
 
@@ -116,11 +116,3 @@ A collection of useful astronomy-related materials in China (mainland). If you f
 - Shanghai Planetarium, Shanghai (under construction)
 - [Shenzhen Astronomical Observatory (深圳天文台)](http://sznco.szmb.gov.cn/) (in Chinese only; no English website)
 - [Qingdao Observatory, Qingdao, Shandong 青岛观象台](http://qdgxt.kepu.net.cn/) (in Chinese only; no English website)
-
-### Social media
-
-#### Professional and amateur astronomers on Weibo with more than 1,000 followers
-
-> Here only lists astronomers **who use real identity or provide direct links to web pages providing real identity** (e.g. personal research website). If you are among the list and do not want to be here, drop me a line and I will get your name removed.
-
-- [LIGO科学合作组织](https://www.weibo.com/adligo): Official account of LIGO
