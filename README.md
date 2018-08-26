@@ -6,7 +6,7 @@ A collection of useful astronomy-related materials in China (mainland). If you f
 - [Postsecondary institutes offering astronomy program](#program)
 - [Research facilities](#facilities)
 - [Planetarium](#planetarium)
-- [A map showing the location of institutes and facilities mentioned above](https://drive.google.com/open?id=19nncU0dZV_60u0XNEbdnhDCY-YUJ3qTg&usp=sharing)
+- [Google Map showing the location of institutes and facilities listed above](https://drive.google.com/open?id=1IATbqjILHtLsOWptHDn4OJ1blLCzkpC2&usp=sharing)
 
 ***
 
